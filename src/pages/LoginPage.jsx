@@ -33,7 +33,7 @@ export default function LoginPage() {
           fontFamily: 'var(--font-head)', fontSize: 36, fontWeight: 800,
           background: 'linear-gradient(90deg, var(--accent), var(--accent2))',
           WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'
-        }}>QuizMaster ⚡</span>
+        }}>QuizNova ⚡</span>
       </div>
 
       <div className="auth-card">
